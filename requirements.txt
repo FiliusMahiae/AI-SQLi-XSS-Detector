@@ -1,0 +1,11 @@
+pandas
+numpy
+re
+collections
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+lime
+kagglehub
